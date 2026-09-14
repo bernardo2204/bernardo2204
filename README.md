@@ -24,7 +24,6 @@ Programo em Python, HTML, CSS e JavaScript. Desenvolvo projetos do zero, de pág
 - Scripts e programas em Python
 - Páginas e interfaces com HTML, CSS e JavaScript
 - Lógica de programação e resolução de problemas
-- Organização e versionamento de projetos com Git
 
 ---
 
