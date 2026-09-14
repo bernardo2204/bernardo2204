@@ -15,9 +15,6 @@ Programo em Python, HTML, CSS e JavaScript. Desenvolvo projetos do zero, de pág
   <a href="https://www.linkedin.com/in/bernardo-pimenta-1948783a5/">
     <img src="https://img.shields.io/badge/LinkedIn-Bernardo%20Pimenta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bernardodspimenta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bernardodspimenta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -47,15 +44,6 @@ Programo em Python, HTML, CSS e JavaScript. Desenvolvo projetos do zero, de pág
 - **[Jogo da Forca](https://github.com/bernardo2204/jogo-da-forca)** — jogo da forca em Python no terminal, com sorteio de palavra por categoria e boneco desenhado em ASCII.
 - **[Jogo da Velha](https://github.com/bernardo2204/jogo-da-velha)** — jogo da velha para dois jogadores em Python, com tabuleiro em ASCII e verificação de vitória em linhas, colunas e diagonais.
 - **[Portfólio](https://bernardo2204.github.io/portifolio/)** — site com meus projetos e contato.
-
----
-
-## Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bernardo2204&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo2204&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
